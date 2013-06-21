@@ -21,3 +21,8 @@ Copy slmenu.py in your path, give it execution permission and it should work.
 Since most of the code comes from [adeskbar](http://adeskbar.tuxfamily.org/)
 which is under [GPL3 licence](http://www.gnu.org/licenses/gpl.txt), this
 project is under the same licence.
+
+# Authors
+
+Original code is from ADcomp <david.madbox@gmail.com>, modified by BlastRock
+<blastrock@free.fr>.
